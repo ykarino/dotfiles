@@ -115,24 +115,6 @@ function tenkai() {
 	done
 }
 
-#function trash() {
-#	for i in $@
-#	do
-#		if [ -e $i ]
-#		then
-#			ii=$i
-#			declare -i num=1
-#			while [ -e ~/.Trash/$ii ]
-#			do
-#				ii="$i"-"$num"
-#				num=$num+1
-#			done
-#			mv -i $i ~/.Trash/$ii
-#		else
-#			echo "$i: No such file or directory"
-#		fi
-#	done
-#}
 function trash() {
 	DATES=`date "+%y%m%d-%H%M%S"`
 	mkdir ~/.Trash/$DATES
@@ -152,8 +134,6 @@ function trash() {
 #}
 #zle -N cdup
 #bindkey '\^' cdup
-
-#fpath=(/usr/local/share/zsh/functions $fpath)
 
 # completion
 autoload -U compinit
@@ -221,11 +201,9 @@ alias lv='lv -z -Ia -Ou8'
 alias cp='cp -i'
 alias mv='mv -i'
 alias rm='rm -i'
-#alias trash='rmtrash'
 alias mi='open -a mi'
 alias xcode='open -a xcode'
 alias acroread='open -a /Applications/Adobe\ Acrobat\ X\ Pro/Adobe\ Acrobat\ Pro.app'
-#alias screen='/opt/screen/bin/screen -U'
 alias vmd='/Applications/VMD\ 1.9.1.app/Contents/MacOS/startup.command'
 alias vi='vim'
 alias tail='gtail'
@@ -264,9 +242,6 @@ export EDITOR=vim
 export PAGER=less
 export BLOCKSIZE=k
 
-#export LDFLAGS=-L/usr/local/Cellar/lapack/3.4.0/lib
-#export CPPFLAGS=-I/usr/local/Cellar/lapack/3.4.0/include
- 
 source /opt/intel/bin/compilervars.sh intel64
 
 export PATH=/opt/mpich/bin:$PATH
