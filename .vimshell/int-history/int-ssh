@@ -1,0 +1,5 @@
+exit
+ls
+
+bash
+echo $SHELL

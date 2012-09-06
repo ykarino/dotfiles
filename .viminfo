@@ -1,0 +1,1655 @@
+# この viminfo ファイルは Vim 7.3 によって生成されました.
+# 変更する際には十分注意してください!
+
+# このファイルが書かれた時の 'encoding' の値
+*encoding=utf-8
+
+
+# hlsearch on (H) or off (h):
+~h
+# 最後の 検索パターン:
+~MSle0~/gfor
+
+# 最後の Substitute 検索パターン:
+~MSle0&fig:fig109
+
+# 最後に置換された文字列:
+$fig:fig9
+
+# コマンドライン 項目の履歴 (新しいものから古いものへ):
+:q
+:w
+:wq
+:Unite neobundle/install:!
+:qa
+:b3
+:b2
+:Wq
+:b1
+:sp
+:Pierrotti
+:b8
+:b7
+:b6
+:b5
+:b4
+:ww
+:b9
+:698
+:q!
+
+# 検索文字列 項目の履歴 (新しいものから古いものへ):
+?/gfor
+?/may
+?/mayer
+?/mpich
+?/fftw
+?/opt
+?/%
+?/fig2\.
+?/fig1\.
+?/fig9
+?/include
+?/fig
+?/excl2
+?/(Amb
+?/95
+?/app
+?/Conclusion
+?/\ fig
+?/Amber99
+?/Hu
+
+# 式 項目の履歴 (新しいものから古いものへ):
+
+# 入力行 項目の履歴 (新しいものから古いものへ):
+@y
+@@saitue ¿?¿?¿?¿?¿?¿?¿?¿?¿?¿?¿?¿?
+@¿?¿?¿?¿?¿?¿?¿?¿?¿?¿?¿?¿?¿?
+@¿?¿?¿?¿?¿?¿?
+@3301363
+@Amazon¿?¿?¿?¿?¿?¿?¿?¿?¿?¿?¿?¿?¿?¿?¿?¿?¿?¿¿?¿?¿?¿?¿?¿?¿?¿?¿?¿?¿ ¿?¿?¿?¿?¿?¿?¿?¿?¿?
+@Amazon¿?¿?¿?¿?¿?¿?¿?¿?¿?¿?¿?¿?¿?¿?¿?¿?¿¿?¿?¿?¿?¿?¿?¿?¿?¿?¿?
+@neobundle
+@¿?¿?¿?¿?¿?¿?neobundle.vim¿?¿?¿?¿?¿?¿?¿?¿?¿?¿?¿?¿?¿?¿?¿?¿?¿?¿?¿?¿?¿?¿?¿?¿?¿?
+@¿?¿?¿?¿?¿¿?¿?¿?¿?¿?
+@¿?¿?¿?tmux¿?vi¿?¿?¿?¿?¿?¿?¿?¿?*¿?¿?¿?¿?¿?¿?¿?¿?¿?¿?¿?¿?¿?¿?
+@¿?¿?¿?tmux¿?vi¿?¿?¿?¿?¿?¿?¿?¿?*¿?¿?¿?¿?¿?¿?¿?¿?¿?¿?¿?¿?¿?¿?¿?
+@tmux¿?pbcopy/pbpaste¿?¿?¿?¿?¿?mac¿?tmux¿?¿?tmux-MacOSX-pasteboard¿?¿?¿?¿?¿?¿?¿?¿?¿?¿?¿?¿?¿?¿?¿?
+@8748865
+@3D¿×¿?¿?¿?¿?¿?¿?¿?¿?¿?¿?¿?¿?¿?
+@3D¿×¿?¿?¿?¿?¿?¿?¿?¿?¿?¿?¿?¿?
+@¿?¿?¿?¿?¿?¿?¿?¿?¿?¿?¿?¿?¿?
+@2
+
+# 入力行 項目の履歴 (新しいものから古いものへ):
+
+# レジスタ:
+"0	LINE	0
+	set xlabel "{/Symbol D}{/Symbol-Oblique m}^{/Times-Italic u}-{/Symbol D}{/Symbol-Oblique m}^0 [kcal/mol]" font "Times-Roman, 30"
+"1	CHAR	0
+	1
+"2	LINE	0
+	set ytics border in scale 2,1
+	set ytics 20
+	set mytics 4
+"3	LINE	0
+	set xtics border in scale 2,1
+	set xtics 20
+	set mxtics 4
+"4	LINE	0
+	set size 1,1.3
+"5	LINE	0
+	set ytics border in scale 2,1
+	set ytics 20
+	set mytics 4
+"6	LINE	0
+	set xtics border in scale 2,1
+	set xtics 20
+	set mxtics 4
+"7	LINE	0
+	set size 1,1.3
+"8	LINE	0
+	set size 1,1.3
+"9	LINE	0
+	set ytics border in scale 2,1
+"a@	CHAR	0
+	vlyjPh
+"j	CHAR	0
+	jjj
+"q	CHAR	0
+	j:
+"s	CHAR	0
+	j
+"w	CHAR	0
+	lllllll
+""-	CHAR	0
+	1
+
+# ファイルマーク:
+'0  49  0  ~/Dropbox/Symposium/0922_生物物理/Fig2/fig3.plt
+'1  55  0  ~/Dropbox/Symposium/0922_生物物理/Fig2/fig3.txt
+'2  139  0  ~/Downloads/mmtsb_toolset/README.toolset
+'3  26  0  ~/Dropbox/Study/120826/fig6-1.plt
+'4  1  0  ~/Dropbox/Study/120826/Fig4a.png
+'5  1  0  ~/Dropbox/Symposium/0922_生物物理/fig3.plt
+'6  23  22  ~/Dropbox/Symposium/0922_生物物理/fig2.plt
+'7  23  42  ~/Dropbox/Symposium/0922_生物物理/fig1.plt
+'8  28  0  ~/Dropbox/Symposium/0922_生物物理/fig1.txt
+'9  1  0  ~/Dropbox/Symposium/0922_生物物理/fig2.plt
+
+# ジャンプリスト (新しいものが先):
+-'  49  0  ~/Dropbox/Symposium/0922_生物物理/Fig2/fig3.plt
+-'  47  0  ~/Dropbox/Symposium/0922_生物物理/Fig2/fig3.plt
+-'  31  13  ~/Dropbox/Symposium/0922_生物物理/Fig2/fig3.plt
+-'  1  0  ~/Dropbox/Symposium/0922_生物物理/Fig2/fig3.plt
+-'  55  0  ~/Dropbox/Symposium/0922_生物物理/Fig2/fig3.txt
+-'  56  0  ~/Dropbox/Symposium/0922_生物物理/Fig2/fig3.txt
+-'  1  0  ~/Dropbox/Symposium/0922_生物物理/Fig2/fig3.txt
+-'  139  0  ~/Downloads/mmtsb_toolset/README.toolset
+-'  83  0  ~/Downloads/mmtsb_toolset/README.toolset
+-'  1  0  ~/Downloads/mmtsb_toolset/README.toolset
+-'  96  0  ~/Downloads/mmtsb_toolset/README.toolset
+-'  26  0  ~/Dropbox/Study/120826/fig6-1.plt
+-'  1  0  ~/Dropbox/Study/120826/fig6-1.plt
+-'  1  0  ~/Dropbox/Study/120826/Fig4a.png
+-'  1  0  ~/Dropbox/Symposium/0922_生物物理/fig3.plt
+-'  71  104  ~/Dropbox/Symposium/0922_生物物理/fig3.plt
+-'  4  0  ~/Dropbox/Symposium/0922_生物物理/fig3.plt
+-'  57  129  ~/Dropbox/Symposium/0922_生物物理/fig3.plt
+-'  47  11  ~/Dropbox/Symposium/0922_生物物理/fig3.plt
+-'  25  0  ~/Dropbox/Symposium/0922_生物物理/fig3.plt
+-'  69  17  ~/Dropbox/Symposium/0922_生物物理/fig3.plt
+-'  42  0  ~/Dropbox/Symposium/0922_生物物理/fig3.plt
+-'  24  0  ~/Dropbox/Symposium/0922_生物物理/fig3.plt
+-'  30  11  ~/Dropbox/Symposium/0922_生物物理/fig3.plt
+-'  40  3  ~/Dropbox/Symposium/0922_生物物理/fig3.plt
+-'  82  3  ~/Dropbox/Symposium/0922_生物物理/fig3.plt
+-'  35  12  ~/Dropbox/Symposium/0922_生物物理/fig3.plt
+-'  8  0  ~/Dropbox/Symposium/0922_生物物理/fig3.plt
+-'  3  2  ~/Dropbox/Symposium/0922_生物物理/fig3.plt
+-'  7  0  ~/Dropbox/Symposium/0922_生物物理/fig3.plt
+-'  26  9  ~/Dropbox/Symposium/0922_生物物理/fig3.plt
+-'  20  14  ~/Dropbox/Symposium/0922_生物物理/fig3.plt
+-'  23  22  ~/Dropbox/Symposium/0922_生物物理/fig2.plt
+-'  18  14  ~/Dropbox/Symposium/0922_生物物理/fig2.plt
+-'  1  0  ~/Dropbox/Symposium/0922_生物物理/fig2.plt
+-'  23  42  ~/Dropbox/Symposium/0922_生物物理/fig1.plt
+-'  25  9  ~/Dropbox/Symposium/0922_生物物理/fig1.plt
+-'  28  0  ~/Dropbox/Symposium/0922_生物物理/fig1.txt
+-'  27  0  ~/Dropbox/Symposium/0922_生物物理/fig1.txt
+-'  22  0  ~/Dropbox/Symposium/0922_生物物理/fig1.plt
+-'  26  3  ~/Dropbox/Symposium/0922_生物物理/fig1.plt
+-'  10  0  ~/Dropbox/Symposium/0922_生物物理/fig1.plt
+-'  12  11  ~/Dropbox/Symposium/0922_生物物理/fig1.plt
+-'  1  0  ~/Dropbox/Symposium/0922_生物物理/fig1.plt
+-'  30  19  ~/Dropbox/Symposium/0922_生物物理/fig1.txt
+-'  1  0  ~/Dropbox/Symposium/0922_生物物理/fig1.txt
+-'  8  0  ~/Downloads/mmtsb_toolset/perl/CHARMM.pm
+-'  20  0  ~/Downloads/mmtsb_toolset/perl/CHARMM.pm
+-'  90  2  ~/Downloads/mmtsb_toolset/perl/CHARMM.pm
+-'  1  0  ~/Documents/pdbfile/110M.pdb
+-'  48  0  ~/Downloads/mmtsb_toolset/perl/pbCHARMM.pl
+-'  1  0  ~/Downloads/mmtsb_toolset/perl/pbCHARMM.pl
+-'  1  0  ~/Downloads/mmtsb_toolset/perl/CHARMM.pm
+-'  12  8  ~/Downloads/mmtsb_toolset/install.sh
+-'  22  0  ~/Downloads/mmtsb_toolset/install.sh
+-'  12  10  ~/Downloads/mmtsb_toolset/src/Makefile
+-'  1  0  ~/Downloads/mmtsb_toolset/src/Makefile
+-'  18  49  ~/Downloads/mmtsb_toolset/install.sh
+-'  3  0  ~/Downloads/mmtsb_toolset/install.sh
+-'  1  0  ~/Downloads/mmtsb_toolset/install.sh
+-'  24  36  /opt/sugitalab/genesis/src/Makefile.machine_ana
+-'  1  0  /opt/sugitalab/genesis/src/Makefile.machine_ana
+-'  14  0  /opt/sugitalab/spdyn/src/Makefile
+-'  1  0  /opt/sugitalab/spdyn/src/Makefile
+-'  2  0  /opt/sugitalab/spdyn/src/analysis/Makefile
+-'  1  0  /opt/sugitalab/spdyn/src/analysis/Makefile
+-'  65  0  ~/.ssh/config
+-'  69  0  ~/.ssh/config
+-'  1  0  ~/.ssh/known_hosts
+-'  34  0  /opt/sugitalab/spdyn/src/Makefile.machine
+-'  35  0  /opt/sugitalab/spdyn/src/Makefile.machine
+-'  28  0  /opt/sugitalab/spdyn/src/Makefile.machine
+-'  31  0  /opt/sugitalab/spdyn/src/MACHINES/Makefile.mpif90.intel64
+-'  39  0  /opt/sugitalab/spdyn/src/Makefile.machine
+-'  59  0  /opt/sugitalab/spdyn/src/Makefile.machine
+-'  58  0  /opt/sugitalab/spdyn/src/Makefile.machine
+-'  53  0  /opt/sugitalab/spdyn/src/Makefile.machine
+-'  16  0  /opt/sugitalab/spdyn/src/MACHINES/Makefile.mpif90.intel64
+-'  50  0  /opt/sugitalab/spdyn/src/Makefile.machine
+-'  17  0  /opt/sugitalab/spdyn/src/MACHINES/Makefile.mpif90.intel64
+-'  43  0  /opt/sugitalab/spdyn/src/MACHINES/Makefile.mpif90.intel64
+-'  56  0  /opt/sugitalab/spdyn/src/Makefile.machine
+-'  60  0  /opt/sugitalab/spdyn/src/Makefile.machine
+-'  42  0  /opt/sugitalab/spdyn/src/MACHINES/Makefile.mpif90.macosx
+-'  229  0  ~/mpich2-1.4.1p1/config.log
+-'  85  0  ~/mpich2-1.4.1p1/config.log
+-'  1  0  ~/mpich2-1.4.1p1/config.log
+-'  66  0  ~/.ssh/config
+-'  56  1  ~/.ssh/config
+-'  1  2  ~/output_slvfe2-3
+-'  1  2  ~/output_slvfe2-2
+-'  50  1  ~/output_slvfe2
+-'  2  41  ~/output_slvfe2-4
+-'  1  2  ~/output_slvfe2-4
+-'  50  1  ~/output_slvfe2-4
+-'  6  0  ~/md.gro
+-'  1  0  ~/md.gro
+
+# ファイル内マークの履歴 (新しいものから古いもの):
+
+> ~/Dropbox/Symposium/0922_生物物理/Fig2/fig3.plt
+	"	49	0
+	^	49	12
+	.	49	18
+	+	8	18
+	+	10	10
+	+	8	18
+	+	35	19
+	+	31	18
+	+	44	0
+	+	49	0
+	+	55	0
+	+	33	10
+	+	34	11
+	+	37	10
+	+	38	11
+	+	44	0
+	+	46	0
+	+	44	0
+	+	45	0
+	+	43	0
+	+	48	0
+	+	49	0
+	+	50	0
+	+	54	0
+	+	55	0
+	+	56	0
+	+	44	14
+	+	49	12
+	+	55	17
+	+	49	18
+
+> ~/Dropbox/Symposium/0922_生物物理/Fig2/fig_p.plt
+	"	5	214
+	^	5	215
+	.	5	207
+	+	3	16
+	+	28	0
+	+	11	11
+	+	6	15
+	+	16	14
+	+	5	207
+
+> ~/.vim/bundle/vimproc/*vimshell* - 1
+	"	160	8
+	^	160	9
+	.	160	0
+	+	1	11
+	+	2	0
+	+	6	14
+	+	7	0
+	+	9	0
+	+	73	0
+	+	143	0
+	+	144	0
+	+	160	0
+
+> ~/*unite* - default
+	"	50	0
+	.	49	0
+	+	51	0
+	+	52	0
+	+	53	0
+	+	54	0
+	+	55	0
+	+	56	0
+	+	57	0
+	+	58	0
+	+	59	0
+	+	60	0
+	+	61	0
+	+	62	0
+	+	63	0
+	+	64	0
+	+	65	0
+	+	66	0
+	+	67	0
+	+	68	0
+	+	69	0
+	+	70	0
+	+	71	0
+	+	72	0
+	+	73	0
+	+	74	0
+	+	75	0
+	+	76	0
+	+	77	0
+	+	78	0
+	+	79	0
+	+	80	0
+	+	81	0
+	+	82	0
+	+	83	0
+	+	84	0
+	+	85	0
+	+	86	0
+	+	87	0
+	+	88	0
+	+	89	0
+	+	90	0
+	+	91	0
+	+	92	0
+	+	93	0
+	+	94	0
+	+	95	0
+	+	96	0
+	+	108	0
+	+	7	0
+	+	12	0
+	+	18	0
+	+	23	0
+	+	28	0
+	+	32	0
+	+	36	0
+	+	39	0
+	+	44	0
+	+	45	0
+	+	46	0
+	+	47	0
+	+	49	0
+
+> ~/Dropbox/Study/120826/fig7-1.plt
+	"	1	3
+
+> ~/Dropbox/Symposium/0922_生物物理/Fig2/fig7.plt
+	"	6	11
+	^	20	74
+	.	6	11
+	+	4	0
+	+	5	0
+	+	4	4
+	+	5	42
+	+	8	19
+	+	10	13
+	+	11	11
+	+	12	17
+	+	16	0
+	+	18	15
+	+	19	9
+	+	20	9
+	+	21	0
+	+	18	5
+	+	3	15
+	+	20	87
+	+	19	79
+	+	20	73
+	+	18	66
+	+	20	73
+	+	5	12
+	+	6	11
+
+> ~/Dropbox/Symposium/0922_生物物理/Fig2/fig7.txt
+	"	55	0
+	^	55	48
+	.	1	0
+	+	55	47
+	+	1	0
+
+> ~/Dropbox/Symposium/0922_生物物理/Fig2/fig6.plt
+	"	5	23
+	^	5	24
+	.	5	23
+	+	6	11
+	+	3	15
+	+	31	0
+	+	24	13
+	+	25	23
+	+	26	5
+	+	28	30
+	+	27	30
+	+	29	0
+	+	12	16
+	+	14	10
+	+	27	41
+	+	29	20
+	+	30	43
+	+	16	5
+	+	17	0
+	+	16	18
+	+	14	12
+	+	18	11
+	+	19	11
+	+	15	11
+	+	11	11
+	+	14	10
+	+	6	14
+	+	5	23
+
+> ~/Dropbox/Symposium/0922_生物物理/Fig2/fig6.txt
+	"	55	37
+	^	55	38
+	.	55	37
+	+	1	38
+	+	55	37
+
+> ~/Dropbox/Symposium/0922_生物物理/Fig2/fig3.txt
+	"	55	0
+	^	55	51
+	.	55	50
+	+	56	0
+	+	55	50
+
+> ~/Downloads/mmtsb_toolset/README.toolset
+	"	139	0
+
+> ~/Dropbox/Study/120826/fig8-1.plt
+	"	24	12
+	^	24	13
+	.	24	0
+	+	3	1
+	+	25	0
+	+	24	0
+
+> ~/Dropbox/Study/120826/fig4-1.plt
+	"	24	12
+	^	23	39
+	.	23	37
+	+	4	0
+	+	23	29
+	+	3	3
+	+	23	29
+	+	24	12
+	+	23	37
+
+> ~/csv/sec
+	"	2	0
+	^	2	0
+	.	1	0
+	+	1	0
+	+	1	0
+
+> ~/Documents/toppar/stream/toppar_all22_prot_aldehydes.str
+	"	27	0
+
+> ~/Documents/toppar/stream/toppar_all22_prot_heme.str
+	"	14	0
+
+> ~/Dropbox/Study/120826/fig6-1.plt
+	"	26	0
+	^	25	13
+	.	26	0
+	+	26	135
+	+	4	1
+	+	25	0
+	+	26	0
+
+> ~/Dropbox/Study/120826/Fig4a.png
+	"	1	0
+
+> ~/Dropbox/Symposium/0922_生物物理/fig3.plt
+	"	1	0
+	^	71	105
+	.	71	104
+	+	27	42
+	+	22	6
+	+	20	14
+	+	10	0
+	+	14	0
+	+	16	0
+	+	20	23
+	+	21	23
+	+	23	3
+	+	23	3
+	+	26	0
+	+	22	15
+	+	23	9
+	+	23	0
+	+	24	0
+	+	23	9
+	+	24	9
+	+	25	9
+	+	26	0
+	+	25	81
+	+	8	0
+	+	12	0
+	+	8	19
+	+	10	11
+	+	6	13
+	+	12	18
+	+	14	11
+	+	15	11
+	+	11	11
+	+	7	0
+	+	29	17
+	+	31	0
+	+	39	0
+	+	40	0
+	+	40	0
+	+	25	21
+	+	35	17
+	+	30	11
+	+	40	0
+	+	82	0
+	+	35	12
+	+	30	0
+	+	35	17
+	+	40	0
+	+	82	0
+	+	40	37
+	+	30	13
+	+	31	18
+	+	33	10
+	+	31	13
+	+	33	10
+	+	37	10
+	+	38	11
+	+	34	11
+	+	28	0
+	+	41	0
+	+	42	17
+	+	53	11
+	+	82	0
+	+	82	0
+	+	53	87
+	+	49	13
+	+	53	11
+	+	55	0
+	+	54	0
+	+	55	17
+	+	66	11
+	+	67	0
+	+	67	0
+	+	62	18
+	+	69	17
+	+	80	11
+	+	81	0
+	+	80	89
+	+	76	16
+	+	62	18
+	+	44	12
+	+	44	131
+	+	57	0
+	+	57	129
+	+	5	0
+	+	71	12
+	+	71	104
+
+> ~/Dropbox/Symposium/0922_生物物理/fig5.txt
+	"	20	0
+	.	31	0
+	+	30	8
+	+	31	87
+	+	31	0
+	+	1	0
+	+	31	0
+
+> ~/Dropbox/Symposium/0922_生物物理/fig5.plt
+	"	39	31
+	^	42	80
+	.	39	31
+	+	12	13
+	+	3	15
+	+	20	13
+	+	20	13
+	+	20	0
+	+	22	9
+	+	22	9
+	+	20	20
+	+	22	14
+	+	21	0
+	+	22	0
+	+	21	9
+	+	22	14
+	+	21	14
+	+	20	20
+	+	45	0
+	+	22	75
+	+	45	0
+	+	24	17
+	+	25	0
+	+	25	17
+	+	23	0
+	+	29	0
+	+	32	0
+	+	29	15
+	+	30	9
+	+	31	9
+	+	40	15
+	+	41	9
+	+	42	9
+	+	34	17
+	+	38	0
+	+	29	0
+	+	25	0
+	+	34	0
+	+	39	0
+	+	38	23
+	+	39	23
+	+	33	17
+	+	44	3
+	+	43	0
+	+	44	33
+	+	42	79
+	+	39	31
+
+> ~/Dropbox/Symposium/0922_生物物理/fig3.txt
+	"	1	41
+	^	1	34
+	.	1	41
+	+	30	69
+	+	24	17
+	+	21	27
+	+	28	27
+	+	1	0
+	+	23	8
+	+	26	8
+	+	2	0
+	+	2	0
+	+	2	0
+	+	4	35
+	+	14	35
+	+	19	35
+	+	29	35
+	+	2	0
+	+	1	41
+
+> ~/Dropbox/Symposium/0922_生物物理/fig4.plt
+	"	12	15
+	^	6	14
+	.	12	15
+	+	3	15
+	+	22	0
+	+	21	0
+	+	22	0
+	+	21	36
+	+	20	0
+	+	19	0
+	+	8	20
+	+	10	12
+	+	12	15
+	+	14	11
+	+	4	59
+	+	5	59
+	+	6	0
+	+	19	13
+	+	20	5
+	+	6	13
+	+	12	15
+
+> ~/Dropbox/Symposium/0922_生物物理/fig4.txt
+	"	30	17
+	^	30	18
+	.	30	17
+	+	30	17
+
+> ~/aa
+	"	1	604
+	^	1	605
+	.	1	604
+	+	1	1
+	+	1	7
+	+	1	4
+	+	1	9
+	+	1	0
+	+	1	0
+	+	1	5
+	+	1	8
+	+	1	0
+	+	1	3
+	+	1	0
+	+	1	0
+	+	1	0
+	+	1	4
+	+	1	987
+	+	1	5
+	+	2	9
+	+	2	9
+	+	2	0
+	+	2	0
+	+	2	0
+	+	2	0
+	+	1	4
+	+	1	5
+	+	2	7
+	+	2	0
+	+	2	8
+	+	2	0
+	+	1	4
+	+	2	0
+	+	2	0
+	+	2	0
+	+	1	4
+	+	1	229
+	+	2	9
+	+	2	0
+	+	2	0
+	+	2	0
+	+	1	4
+	+	1	3
+	+	2	6
+	+	2	7
+	+	2	9
+	+	2	0
+	+	1	3
+	+	2	4
+	+	2	0
+	+	2	0
+	+	1	4
+	+	1	314
+	+	2	3
+	+	2	0
+	+	2	3
+	+	2	9
+	+	2	0
+	+	1	4
+	+	2	0
+	+	2	0
+	+	2	5
+	+	2	0
+	+	2	0
+	+	2	0
+	+	1	4
+	+	1	604
+
+> ~/test/engmain.F90
+	"	223	2
+
+> ~/Dropbox/Study/msms/run_00/output.msms
+	"	1	0
+	.	1	0
+	+	1	0
+
+> ~/Dropbox/Study/msms/run_00/ini
+	"	1750	0
+
+> ~/Dropbox/Study/msms/run_00/msms.0
+	"	1	1
+
+> ~/Dropbox/Symposium/0922_生物物理/fig2.plt
+	"	23	22
+	^	18	21
+	.	23	12
+	+	2	15
+	+	24	19
+	+	26	19
+	+	24	29
+	+	26	29
+	+	25	0
+	+	25	16
+	+	24	76
+	+	26	79
+	+	18	14
+	+	24	5
+	+	26	23
+	+	16	8
+	+	25	29
+	+	24	34
+	+	26	34
+	+	18	20
+	+	21	10
+	+	23	12
+
+> ~/Dropbox/Symposium/0922_生物物理/fig2.txt
+	"	1	0
+	^	28	0
+	.	1	0
+	+	34	27
+	+	7	0
+	+	14	0
+	+	23	0
+	+	31	0
+	+	21	0
+	+	23	0
+	+	28	0
+	+	31	0
+	+	1	0
+
+> ~/Dropbox/Symposium/0922_生物物理/fig1.txt
+	"	1	0
+	^	11	3
+	.	34	0
+	+	34	19
+	+	7	0
+	+	14	0
+	+	21	0
+	+	28	0
+	+	2	1
+	+	3	1
+	+	4	1
+	+	32	0
+	+	10	0
+	+	12	0
+	+	34	0
+
+> ~/Dropbox/Symposium/0922_生物物理/fig1.plt
+	"	23	42
+	^	25	85
+	.	23	42
+	+	26	19
+	+	25	0
+	+	4	5
+	+	5	5
+	+	4	8
+	+	6	5
+	+	10	0
+	+	7	0
+	+	8	0
+	+	7	5
+	+	8	5
+	+	4	8
+	+	5	8
+	+	6	9
+	+	7	9
+	+	8	9
+	+	10	0
+	+	9	21
+	+	17	12
+	+	18	14
+	+	26	0
+	+	25	8
+	+	24	19
+	+	25	19
+	+	24	27
+	+	25	27
+	+	24	22
+	+	25	22
+	+	23	0
+	+	23	0
+	+	8	10
+	+	25	85
+	+	24	20
+	+	25	20
+	+	17	13
+	+	21	0
+	+	18	21
+	+	21	12
+	+	17	16
+	+	9	0
+	+	20	0
+	+	19	26
+	+	17	15
+	+	5	8
+	+	6	9
+	+	7	9
+	+	8	9
+	+	24	23
+	+	25	23
+	+	4	8
+	+	5	8
+	+	6	8
+	+	7	8
+	+	8	8
+	+	4	8
+	+	5	8
+	+	6	8
+	+	7	8
+	+	8	8
+	+	24	76
+	+	25	84
+	+	23	42
+
+> ~/*unite* - default@1
+	"	58	0
+	.	57	0
+	+	156	0
+	+	157	0
+	+	158	0
+	+	159	0
+	+	160	0
+	+	168	0
+	+	59	0
+	+	60	0
+	+	61	0
+	+	62	0
+	+	63	0
+	+	64	0
+	+	65	0
+	+	66	0
+	+	67	0
+	+	68	0
+	+	69	0
+	+	70	0
+	+	71	0
+	+	72	0
+	+	73	0
+	+	74	0
+	+	75	0
+	+	76	0
+	+	77	0
+	+	78	0
+	+	79	0
+	+	80	0
+	+	81	0
+	+	82	0
+	+	83	0
+	+	84	0
+	+	85	0
+	+	86	0
+	+	87	0
+	+	88	0
+	+	89	0
+	+	90	0
+	+	91	0
+	+	92	0
+	+	93	0
+	+	94	0
+	+	95	0
+	+	96	0
+	+	97	0
+	+	98	0
+	+	99	0
+	+	100	0
+	+	101	0
+	+	102	0
+	+	103	0
+	+	104	0
+	+	113	0
+	+	2	0
+	+	3	0
+	+	4	0
+	+	5	0
+	+	6	0
+	+	7	0
+	+	8	0
+	+	9	0
+	+	10	0
+	+	11	0
+	+	12	0
+	+	13	0
+	+	14	0
+	+	15	0
+	+	16	0
+	+	17	0
+	+	18	0
+	+	19	0
+	+	20	0
+	+	21	0
+	+	22	0
+	+	23	0
+	+	24	0
+	+	25	0
+	+	26	0
+	+	27	0
+	+	28	0
+	+	29	0
+	+	30	0
+	+	31	0
+	+	32	0
+	+	33	0
+	+	34	0
+	+	35	0
+	+	36	0
+	+	37	0
+	+	38	0
+	+	39	0
+	+	40	0
+	+	41	0
+	+	42	0
+	+	43	0
+	+	44	0
+	+	45	0
+	+	46	0
+	+	47	0
+	+	57	0
+
+> ~/Downloads/mmtsb_toolset/perl/CHARMM.pm
+	"	8	0
+
+> ~/Downloads/mmtsb_toolset/perl/pbCHARMM.pl
+	"	48	0
+
+> ~/Documents/pdbfile/110M.pdb
+	"	1	0
+
+> ~/Downloads/mmtsb_toolset/install.sh
+	"	12	8
+
+> ~/Downloads/mmtsb_toolset/src/Makefile
+	"	12	10
+
+> /opt/sugitalab/genesis/src/Makefile.machine_ana
+	"	24	36
+	^	12	23
+	.	24	36
+	+	12	22
+	+	13	18
+	+	19	18
+	+	24	36
+
+> /opt/sugitalab/spdyn/src/Makefile
+	"	14	0
+
+> /opt/sugitalab/spdyn/src/analysis/Makefile
+	"	2	0
+
+> ~/.ssh/config
+	"	65	0
+	^	65	1
+	.	65	0
+	+	9	11
+	+	10	21
+	+	11	6
+	+	88	12
+	+	89	11
+	+	88	19
+	+	89	0
+	+	85	0
+	+	87	11
+	+	88	0
+	+	83	0
+	+	14	11
+	+	16	0
+	+	15	9
+	+	17	11
+	+	16	18
+	+	20	11
+	+	21	12
+	+	22	23
+	+	68	0
+	+	24	8
+	+	25	23
+	+	55	9
+	+	56	22
+	+	66	0
+	+	65	0
+	+	66	0
+	+	65	0
+	+	66	0
+	+	65	0
+	+	66	0
+	+	65	0
+
+> ~/.ssh/known_hosts
+	"	1	0
+
+> /opt/sugitalab/spdyn/src/Makefile.machine
+	"	34	0
+	^	51	85
+	.	34	0
+	+	52	0
+	+	51	82
+	+	52	0
+	+	34	0
+	+	35	26
+	+	34	0
+	+	35	0
+	+	51	84
+	+	35	0
+	+	34	0
+
+> /opt/sugitalab/spdyn/src/MACHINES/Makefile.mpif90.intel64
+	"	31	0
+
+> /opt/sugitalab/spdyn/src/MACHINES/Makefile.mpif90.macosx
+	"	42	0
+
+> ~/mpich2-1.4.1p1/config.log
+	"	229	0
+
+> /opt/sugitalab/spdyn/*vimshell* - 1
+	"	9	8
+	^	9	9
+	.	9	0
+	+	1	10
+	+	2	0
+	+	3	11
+	+	5	16
+	+	6	0
+	+	7	10
+	+	8	0
+	+	9	0
+
+> /opt/sugitalab/spdyn/*unite* - default@1
+	"	61	0
+	.	60	0
+	+	2	0
+	+	3	0
+	+	4	0
+	+	5	0
+	+	6	0
+	+	7	0
+	+	8	0
+	+	9	0
+	+	10	0
+	+	11	0
+	+	12	0
+	+	13	0
+	+	14	0
+	+	15	0
+	+	16	0
+	+	17	0
+	+	18	0
+	+	19	0
+	+	20	0
+	+	21	0
+	+	22	0
+	+	23	0
+	+	24	0
+	+	25	0
+	+	26	0
+	+	27	0
+	+	28	0
+	+	29	0
+	+	30	0
+	+	31	0
+	+	32	0
+	+	33	0
+	+	34	0
+	+	35	0
+	+	36	0
+	+	37	0
+	+	38	0
+	+	39	0
+	+	40	0
+	+	41	0
+	+	42	0
+	+	43	0
+	+	44	0
+	+	45	0
+	+	46	0
+	+	47	0
+	+	60	0
+
+> ~/output_slvfe2-3
+	"	1	2
+	.	1	41
+	+	1	0
+	+	51	0
+	+	1	41
+
+> ~/output_slvfe2-2
+	"	1	2
+	.	1	40
+	+	1	0
+	+	51	0
+	+	1	40
+
+> ~/output_slvfe2
+	"	50	1
+	.	51	0
+	+	1	40
+	+	51	0
+
+> ~/output_slvfe2-4
+	"	2	41
+	.	1	41
+	+	1	0
+	+	51	0
+	+	1	41
+
+> ~/md.gro
+	"	6	0
+
+> ~/Dropbox/Study/SI/fig1.plt
+	"	21	81
+	^	13	13
+	.	21	81
+	+	22	0
+	+	3	16
+	+	20	15
+	+	22	0
+	+	21	57
+	+	20	41
+	+	8	0
+	+	16	0
+	+	19	0
+	+	21	65
+	+	4	25
+	+	5	43
+	+	11	19
+	+	13	12
+	+	21	81
+
+> ~/Dropbox/Study/SI/fig2.plt
+	"	15	16
+	^	15	18
+	.	15	16
+	+	3	15
+	+	20	5
+	+	22	0
+	+	21	84
+	+	20	68
+	+	22	63
+	+	20	20
+	+	21	36
+	+	22	37
+	+	11	17
+	+	22	15
+	+	11	13
+	+	13	10
+	+	15	16
+
+> ~/Dropbox/Study/SI/karino.tex
+	"	18	0
+	^	18	0
+	.	17	25
+	+	121	93
+	+	39	0
+	+	39	0
+	+	71	314
+	+	121	4
+	+	121	215
+	+	23	36
+	+	71	33
+	+	23	132
+	+	71	211
+	+	121	39
+	+	121	148
+	+	23	59
+	+	41	24
+	+	42	0
+	+	45	0
+	+	41	42
+	+	58	0
+	+	49	10
+	+	48	52
+	+	50	65
+	+	53	10
+	+	52	327
+	+	52	59
+	+	50	14
+	+	52	49
+	+	50	58
+	+	57	11
+	+	56	97
+	+	23	36
+	+	59	54
+	+	60	0
+	+	62	0
+	+	61	31
+	+	62	4
+	+	64	174
+	+	64	92
+	+	65	117
+	+	67	5
+	+	71	135
+	+	121	0
+	+	64	188
+	+	67	56
+	+	79	0
+	+	76	0
+	+	77	0
+	+	78	92
+	+	77	148
+	+	83	11
+	+	82	24
+	+	82	114
+	+	82	45
+	+	93	0
+	+	84	0
+	+	85	5
+	+	88	10
+	+	87	128
+	+	92	10
+	+	91	247
+	+	98	10
+	+	97	35
+	+	96	139
+	+	97	173
+	+	91	253
+	+	91	137
+	+	96	126
+	+	97	4
+	+	103	13
+	+	101	52
+	+	101	186
+	+	102	28
+	+	101	199
+	+	102	1
+	+	102	72
+	+	101	1
+	+	102	1
+	+	108	10
+	+	107	97
+	+	113	10
+	+	111	157
+	+	111	48
+	+	112	24
+	+	102	41
+	+	112	140
+	+	112	0
+	+	111	166
+	+	115	51
+	+	116	0
+	+	117	25
+	+	118	1
+	+	117	0
+	+	118	165
+	+	118	0
+	+	118	160
+	+	118	34
+	+	119	3
+	+	118	1
+	+	119	2
+	+	118	29
+	+	17	25
+
+> ~/Dropbox/Study/SI/fig2.txt
+	"	11	0
+	^	11	35
+	.	11	3
+	+	11	34
+	+	1	1
+	+	2	2
+	+	11	3
+
+> ~/Dropbox/Study/SI/fig1.txt
+	"	11	3
+	^	11	28
+	.	11	3
+	+	11	27
+	+	1	1
+	+	2	2
+	+	11	3
+
+> ~/.zshrc
+	"	234	0
+	^	231	1
+	.	231	0
+	+	267	14
+	+	268	0
+	+	268	15
+	+	276	28
+	+	276	0
+	+	276	0
+	+	268	0
+	+	270	0
+	+	269	0
+	+	272	5
+	+	269	0
+	+	266	0
+	+	274	57
+	+	273	29
+	+	275	44
+	+	264	16
+	+	257	0
+	+	258	17
+	+	237	0
+	+	227	77
+	+	216	0
+	+	217	0
+	+	232	0
+	+	217	0
+	+	213	0
+	+	214	0
+	+	184	6
+	+	232	0
+	+	231	0
+	n	1	0
+
+> ~/port.txt
+	"	157	2
+	^	147	3
+	.	147	0
+	+	147	0
+
+> ~/port2.txt
+	"	145	2
+	^	106	3
+	.	106	0
+	+	106	0
+
+> ~/test/setconf.F90
+	"	253	46
+
+> ~/test/engproc.F90
+	"	569	6
+
+> ~/realcal.F90
+	"	626	0
+
+> ~/test/realcal.F90
+	"	626	0
+
+> /usr/local/brew.txt
+	"	1	0
+
+> ~/.tmux.conf
+	"	6	0
+	^	42	1
+	.	6	0
+	+	6	0
+	+	40	0
+	+	42	0
+	+	40	0
+	+	6	0
+
+> /opt/local/var/macports/build/_opt_local_var_macports_sources_rsync.macports.org_release_tarballs_ports_devel_cvs/cvs/work/cvs-1.11.23/config.log
+	"	87	0
+
+> ~/.zsh_history
+	"	4195	18
+
+> /private/etc/shells
+	"	11	17
+	^	11	18
+	.	11	17
+	+	13	3
+	+	11	17
+
+> /private/var/folders/4r/cjct4v152rgfs6_ssxp80r5m0000gn/T/chsh.L5yiu9
+	"	6	8
+	.	6	8
+	+	6	8
+
+> ~/Trp/Trp.pdb
+	"	286	0
+
+> ~/Trp/Trp.psf
+	"	9	2
+
+> ~/Trp/Trp.tcl
+	"	12	0
+	^	12	10
+	.	12	9
+	+	9	7
+	+	10	0
+	+	11	12
+	+	4	0
+	+	12	9
+
+> ~/Trp.tcl
+	"	12	11
+	^	13	12
+	.	14	0
+	+	12	0
+	+	13	11
+	+	14	0
+
+> /opt/sugitalab/tests/test/README.rst
+	"	158	0
+
+> /opt/sugitalab/tests/README.rst
+	"	49	2
+
+> ~/figure/fig.plt
+	"	9	15
+	^	17	12
+	.	9	15
+	+	3	15
+	+	33	8
+	+	37	0
+	+	33	5
+	+	34	7
+	+	34	0
+	+	36	9
+	+	33	14
+	+	34	14
+	+	34	0
+	+	35	0
+	+	34	14
+	+	35	14
+	+	37	0
+	+	38	0
+	+	26	25
+	+	27	25
+	+	11	19
+	+	13	11
+	+	15	17
+	+	17	11
+	+	26	13
+	+	9	15
+
+> ~/figure/fig3-3.plt
+	"	19	24
+	^	19	25
+	.	19	24
+	+	19	18
+	+	26	62
+	+	25	11
+	+	24	17
+	+	23	17
+	+	27	0
+	+	31	0
+	+	35	0
+	+	39	0
+	+	43	0
+	+	27	17
+	+	28	17
+	+	29	11
+	+	31	0
+	+	35	0
+	+	39	0
+	+	43	0
+	+	5	0
+	+	16	25
+	+	17	33
+	+	18	33
+	+	5	0
+	+	8	0
+	+	12	0
+	+	20	28
+	+	21	28
+	+	22	27
+	+	11	13
+	+	5	0
+	+	26	68
+	+	8	0
+	+	12	0
+	+	5	0
+	+	30	9
+	+	34	64
+	+	38	68
+	+	42	9
+	+	46	64
+	+	45	66
+	+	8	0
+	+	12	0
+	+	7	8
+	+	5	14
+	+	16	21
+	+	17	29
+	+	18	29
+	+	19	24
+
+> ~/figure/fig9-1.plt
+	"	61	41
+	^	60	88
+	.	60	87
+	+	36	93
+	+	45	0
+	+	45	0
+	+	45	27
+	+	40	19
+	+	44	23
+	+	40	20
+	+	36	1
+	+	40	0
+	+	44	0
+	+	36	0
+	+	40	18
+	+	48	86
+	+	52	0
+	+	52	91
+	+	56	0
+	+	60	0
+	+	56	19
+	+	60	86
+	+	36	97
+	+	40	88
+	+	44	83
+	+	48	78
+	+	52	83
+	+	56	83
+	+	60	78
+	+	47	80
+	+	51	77
+	+	36	103
+	+	40	0
+	+	44	89
+	+	56	89
+	+	52	91
+	+	60	87
+
+> ~/test/ermod-0.2.3/realcal.F90
+	"	602	7
+
+> ~/test/ermod-0.2.3/engproc.F90
+	"	766	4
+
+> ~/test/ermod-0.2.3/engmain.F90
+	"	223	0
+
+> ~/.ssh/authorized_keys
+	"	1	0
+	.	1	0
+	+	1	0
+
+> ~/figure/fig.txt
+	"	55	50
+	^	55	51
+	.	55	50
+	+	55	50
+
+> ~/figure/fig3-3.txt
+	"	1	0
+
+> ~/figure/fig7-1_3.txt
+	"	2	0
+	.	3	0
+	+	1	0
+	+	3	0
+
+> ~/figure/fig9-1_3.txt
+	"	1	0
+
+> ~/figure/fig7-1_2.txt
+	"	2	0
+	.	3	0
+	+	1	0
+	+	3	0
+
+> ~/figure/fig9-1_2.txt
+	"	1	0
+
+> ~/figure/fig7-1_1.txt
+	"	15	0
+	.	15	0
+	+	15	0
+	+	15	0
+
+> ~/figure/fig9-1_1.txt
+	"	1	0
+
+> ~/figure/fig7-1.plt
+	"	25	0
+
+> ~/figure/fig9-1.txt
+	"	7	0
+
+> ~/.Xauthority
+	"	1	0
+
+> ~/gromacs_test/md.mdp
+	"	9	20
+	^	9	21
+	.	9	20
+	+	9	20
+
+> ~/gromacs-4.5.5/config.status
+	"	443	81
+
+> ~/fftw-3.3.2/config.status
+	"	469	7
