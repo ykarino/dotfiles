@@ -1,6 +1,0 @@
-ps ax
-ls
-echo $USER
-echo $USERNAME
-exit
-gnuplot fig11.plt
