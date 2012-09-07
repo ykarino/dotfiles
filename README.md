@@ -18,12 +18,12 @@
 
 ホームページ編集方法
 --------------------
-tutorial.pdfを読むこと
+編集前にREADME.txtおよびtutorial.pdfを読むこと
 
 ### テンプレートを編集する場合
 
-**CAUTION**
-必ずAdobe Dreamweaverを使用してください。
+> **CAUTION**
+> 必ずAdobe Dreamweaverを使用してください。
 
 Dreamweaver CS6 
 メニューバー > サイト > 新規サイト または サイトの管理
