@@ -35,7 +35,9 @@ Dreamweaver CS6
 
 **グレーアウトしている箇所は、編集できません。**
 上位のテンプレートを編集する必要がありますので、3行目の
+
     <!-- InstanceBegin template="/Templates/en_index.dwt" codeOutsideHTMLIsLocked="false" -->
+
 を手がかりに編集すべきテンプレートファイルを選択してください。
 
 表示をコードとデザイン（メニューバー > 表示 > コードとデザイン）とすると編集しやすいと思います。
